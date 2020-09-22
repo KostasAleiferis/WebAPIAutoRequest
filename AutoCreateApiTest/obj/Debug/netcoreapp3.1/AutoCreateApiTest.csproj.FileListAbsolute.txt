@@ -1,0 +1,98 @@
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.exe
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.deps.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.dev.json
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csprojAssemblyReference.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfoInputs.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfo.cs
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.Manifest.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.xml
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.genruntimeconfig.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CopyComplete
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CoreCompileInputs.cache
+C:\Users\kaleiferis\source\repos\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\nlog.config
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.exe
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.deps.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.dev.json
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csprojAssemblyReference.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfoInputs.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfo.cs
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.RazorTargetAssemblyInfo.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CopyComplete
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.Manifest.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.xml
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.genruntimeconfig.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\AutoCreateApiTest\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\nlog.config
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.exe
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.deps.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.runtimeconfig.dev.json
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csprojAssemblyReference.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfoInputs.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.AssemblyInfo.cs
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.RazorTargetAssemblyInfo.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.csproj.CopyComplete
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.Manifest.cache
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\staticwebassets\AutoCreateApiTest.StaticWebAssets.xml
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.dll
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.pdb
+C:\Workspace\Projects\AutoCreateApiTest - Copy\AutoCreateApiTest\obj\Debug\netcoreapp3.1\AutoCreateApiTest.genruntimeconfig.cache
